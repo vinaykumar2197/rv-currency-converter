@@ -4,6 +4,7 @@ import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
+import androidx.core.view.isVisible
 import androidx.lifecycle.lifecycleScope
 import com.vinay.currencyconverter.databinding.ActivityMainBinding
 import com.vinay.currencyconverter.main.MainViewModel
